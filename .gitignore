@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+*.class
+*.merge-left*
+*.merge-right*
+*.mine
+*.prej
+*.pyc
+*.pyo
+*.working
+.svn
+_svn
+svn-commit*.tmp
+=======
 *.py[cod]
 
 # C extensions
@@ -33,3 +46,4 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+>>>>>>> 08fc8fe2964d41473e081a0b46d28c701feed157
